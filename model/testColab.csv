@@ -1,0 +1,24 @@
+Stagione,Occasione,Tipo abbigliamento,Comfort o stile?,Sesso,Colore1,Colore2,Top_outfit,Bottom_outfit
+Inverno,Svago,Elegante,Stile,Femmina,Beige,Bianco,maglia,pantalone
+Primavera,Occasione formale,Streetwear,Comodità,Maschio,Blu,Beige,felpa,gonna
+Autunno,Scuola,Casual,Stile,Femmina,Verde,Viola,giacca,pantalone corto
+Estate,Lavoro,Sportivo,Comodità,Maschio,Giallo,Lilla,camicia,pantalone
+Inverno,Svago,Elegante,Stile,Femmina,Nero,Marrone,maglia,pantalone corto
+Estate,Lavoro,Casual,Comodità,Maschio,Azzurro,Nero,giacca,gonna
+Primavera,Svago,Streetwear,Stile,Femmina,Arancione,Azzurro,felpa,pantalone corto
+Autunno,Lavoro,Elegante,Comodità,Maschio,Rosa,Rosso,camicia,pantalone
+Estate,Scuola,Casual,Stile,Femmina,Rosso,Arancione,maglia,gonna
+Inverno,Lavoro,Sportivo,Comodità,Maschio,Viola,Blu,felpa,pantalone corto
+Inverno,Svago,Elegante,Stile,Femmina,Beige,Rosso,maglia,pantalone
+Primavera,Occasione formale,Streetwear,Comodità,Maschio,Blu,Rosso,felpa,gonna
+Autunno,Scuola,Casual,Stile,Femmina,Verde,Giallo,giacca,pantalone corto
+Estate,Lavoro,Sportivo,Comodità,Maschio,Giallo,Beige,camicia,pantalone
+Inverno,Svago,Elegante,Stile,Femmina,Nero,Grigio,maglia,pantalone corto
+Estate,Lavoro,Casual,Comodità,Maschio,Azzurro,Bianco,giacca,gonna
+Primavera,Svago,Streetwear,Stile,Femmina,Arancione,Blu,felpa,pantalone corto
+Autunno,Lavoro,Elegante,Comodità,Maschio,Rosa,Nero,camicia,pantalone
+Estate,Scuola,Casual,Stile,Femmina,Rosso,Grigio,maglia,gonna
+Inverno,Lavoro,Sportivo,Comodità,Maschio,Viola,Bianco,felpa,pantalone corto
+Inverno,Svago,Elegante,Stile,Femmina,Bianco,Rosso,maglia,pantalone
+Primavera,Occasione formale,Streetwear,Comodità,Maschio,Grigio,Rosso,felpa,gonna
+Autunno,Scuola,Casual,Stile,Femmina,Verde,Rosa,giacca,pantalone corto
